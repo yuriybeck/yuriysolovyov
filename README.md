@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuriysolovyov
+- 👋 Hi, I’m @yuriybeck
 - 👀 I’m interested in DevOps, Azure, Automation
 - 🌱 I’m currently learning NFT, Java Spring, Python
 - 💞️ I’m looking to collaborate on DevOps
